@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html>
+
+   <head>
+      <title>Welcome to ECHOTEL</title>
+   <body>
+
+<table width = "100%" border = "0">
+<tr>
+ <td colspan = "2" bgcolor = "#c3c4c7">
+	<p class="split-para"><span></span></p>
+        <h1><b>LOGO Companyname<b></h1>
+	<p style="margin-left:6.5em;"><i>Tagline<i></p>
+ 	<td colspan = "2" bgcolor = "#c3c4c7">
+
+<div align="right">
+	<p><b>(000) 000 00 00<b></p>
+ 	<button style="background-color:limegreen; border-color:limegreen; color:white">Call to action</button
+</div>
+            </td>
+
+<table width = "100%" border = "0">
+<tr>
+            <td colspan = "2" bgcolor = "#4da7e8">
+<style>
+
+		a{
+			text-decoration: none;
+			color: white;
+			font-size: 20px;
+			padding: 8px;
+		}
+		a:hover{
+			color: blue;
+		}
+	         
+	</style>
+<nav> 	
+	<a href="#">HOME</a> 
+ 	<a href="#">About</a> 
+ 	<a href="#">Contact</a>
+	<a href="#">Blog</a>  
+ </nav>
+
+<div align="right">
+
+	<input type="text" name="search-text" class="search-input"/> <button style="background-color: steelblue; border-color:Light Blue; color:white">SEARCH</button </div>
+
+            </td>
+</body>
+   </head>
+
+   <body>
+
+      <table width = "100%" border = "0">
+         <center>
+      <p></p>
+      <img src = "Welcome.jpg" alt = "Image" width = "900" height = "400"  border = "3" align = "center"/>
+<p>ooo</p>
+<center>  
+         <tr>
+            <td colspan = "2" bgcolor = "#999999">
+               <h1>.</h1>
+		
+            </td>
+         </tr>
+         <tr valign = "top">
+   	    <td bgcolor = "#eee" width = "200" height = "400">
+       		<p><b>Main Feature<b></p>
+<div>
+<table>
+<tr>
+<td><img src = "M.jpg" alt = "Image" width = "350" height = "300"></td> 
+<td><img src = "M.jpg" alt = "Image" width = "350" height = "300"></td> 
+<td><img src = "M.jpg" alt = "Image" width = "350" height = "300"></td> 
+	</tr>
+         <tr>
+<td><img src = "M.jpg" alt = "Image" width = "350" height = "300"></td> 
+<td><img src = "M.jpg" alt = "Image" width = "350" height = "300"></td>
+<td><img src = "M.jpg" alt = "Image" width = "350" height = "300"></td> 
+  </tr>
+<table>
+<div>
+            <tr>
+            <td colspan = "2" bgcolor = "#999999">
+	<center>
+	 </table>
+ 	    <td colspan = "2" bgcolor = "#f0f0f0">
+      <style>
+         table, td {
+            border: 0px solid black;
+         }
+      </style>
+   </head>
+   
+   <body>
+
+      <table style = "width:100%">
+         <thead>
+            <tr>
+               <td colspan = "4"</td>
+            </tr>
+         </thead>
+         <tfoot>
+            <tr>
+               <td colspan = "4"</td>
+            </tr>
+         </tfoot>
+         <tbody>
+	<tr>
+	     <b>Find us: <b><br />
+	     <td><img src = "Map.jpg" alt = "Image" width = "250" height = "300"></td>  
+	</tr>
+	     <tr>
+	    <td><b>Reviews: <b><br /><img src = "Reviews.jpg" alt = "Image" width = "250" height = "300"></td>  
+	</tr>            
+
+         </tbody>
+
+      </table>
+	<center>
+
+            </td>
+         </tr>
+
+      </table>
+	 <td colspan = "2" bgcolor = "#95999">
+      <style>
+         table, td {
+            border: 0px solid black;
+         }
+      </style>
+   </head>
+   
+   <body>
+
+      <table style = "width:100%">
+         <thead>
+            <tr>
+               <td colspan = "4"</td>
+            </tr>
+         </thead>
+         <tfoot>
+            <tr>
+               <td colspan = "4"</td>
+            </tr>
+         </tfoot>
+         <tbody>
+            <tr>
+               <td><b>Contact<b></td>
+               <td><b>Menu<b></td>
+               <td><b>Follow us:<b></td>
+               <td><b>Privacy Policy Page<b></td> 
+            <tr>
+          <tr>
+               <td>City, Street</td>
+               <td>Homepage</td>
+               <td>[  ][  ][  ][  ]</td>
+               <td>FAQ Page</td> 
+            <tr>
+         </tbody>
+         
+         <tbody>
+            <tr>
+               <td>Phone</td>
+               <td>About</td>
+               <td></td>
+	       <td>BLOG Page</td> 
+            </tr>
+            <tr>
+               <td>Email</td>
+               <td>Contact</td>
+               <td></td>
+	       <td></td> 
+            </tr>
+         </tbody>
+      </table>
+
+   </body>
+
+</html>
